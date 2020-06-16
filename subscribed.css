@@ -31,6 +31,7 @@
     padding: 8em;
     font-weight: 700;
     font-size: large;
+    color: rgb(20, 20, 136);
 }
 
 @media screen and (max-width: 796px){
