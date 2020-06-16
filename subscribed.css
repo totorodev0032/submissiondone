@@ -44,8 +44,9 @@
         font-family: monospace;
         font-weight: 900;
         font-size: 2em;
-        color: rgb(21, 21, 185);
+        color: rgb(20, 20, 136);
         text-align: center;
+        padding: 1em;
     }
 
     .subscribed_wrapper .say{
@@ -53,5 +54,7 @@
         padding: 2em;
         font-weight: 700;
         font-size: large;
+        text-align: center;
+        color: rgb(20, 20, 136);
     }
 }
