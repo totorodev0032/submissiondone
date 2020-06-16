@@ -36,12 +36,12 @@
 
 @media screen and (max-width: 796px){
     .subscribed_wrapper img{
-        width: 300px;
-        height: 300px;
+        width: 250px;
+        height: 250px;
     }
 
     .subscribed_wrapper .title{
-        margin-top: 2em;
+        margin-top: 1em;
         font-family: monospace;
         font-weight: 900;
         font-size: 2em;
